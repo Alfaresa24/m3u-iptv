@@ -1,1 +1,4 @@
-#EXTINF:-1 tvg-id="" tvg-name="Ruang tamu" tvg-language="English" tvg-logo="" group-title="Indonesian",Ruang tamu http://cdn.adultiptv.net/livecams.m3u8
+#EXTM3U
+#EXTM3U url-tvg="https://bit.ly/IndonesiaEpg" "https://bit.ly/AstroEpg" "https://bit.ly/UnifyEpg" "https://bit.ly/RtmEpg" "https://bit.ly/SingaporeEpg" refresh="1440" max-conn="1" refresh="24"
+
+#EXTINF:-1 tvg-id="" tvg-name="Dek aika tocil" tvg-language="English" tvg-logo="" group-title="Indonesian",Dek aika tocil https://stream.kingbokep.pro/dek-aika-abg-tocil-diewe-pacar/playlist.m3u8
